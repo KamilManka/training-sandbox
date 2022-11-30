@@ -1,0 +1,180 @@
+{
+  "clients": [
+    {
+      "name": "Jan",
+      "surname": "Kowalski",
+      "street": "Pokoju",
+      "postCode": "30-333",
+      "town": "Warszawa",
+      "region": "Małopolskie",
+      "imgSrc": "https://images.unsplash.com/photo-1661869535393-872dea2d9f8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=8",
+      "phone": "+48596596512",
+      "id": 1
+    },
+    {
+      "name": "Józef",
+      "surname": "Drewno",
+      "street": "Sucha",
+      "postCode": "30-333",
+      "town": "Białystok",
+      "region": "Małopolskie",
+      "imgSrc": "https://images.unsplash.com/photo-1661869535393-872dea2d9f8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=8",
+      "phone": "+48596596523",
+      "id": 2
+    },
+    {
+      "name": "Dorota",
+      "surname": "Kowalska",
+      "street": "Wojny",
+      "postCode": "30-333",
+      "town": "Pułtusk",
+      "region": "Małopolskie",
+      "imgSrc": "https://images.unsplash.com/photo-1661869535393-872dea2d9f8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=8",
+      "phone": "+48596596534",
+      "id": 3
+    },
+    {
+      "name": "Andrzej",
+      "surname": "Nowak",
+      "street": "Krakowska",
+      "postCode": "30-333",
+      "town": "Warszawa",
+      "region": "Małopolskie",
+      "imgSrc": "https://images.unsplash.com/photo-1661869535393-872dea2d9f8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=8",
+      "phone": "+48596596545",
+      "id": 4
+    },
+    {
+      "name": "Dariusz",
+      "surname": "Darski",
+      "street": "Morska",
+      "postCode": "30-333",
+      "town": "Wrocław",
+      "region": "Małopolskie",
+      "imgSrc": "https://images.unsplash.com/photo-1661869535393-872dea2d9f8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=8",
+      "phone": "+48596596556",
+      "id": 5
+    },
+    {
+      "name": "Anna2",
+      "surname": "Mariańska",
+      "street": "Pokoju",
+      "postCode": "30-333",
+      "town": "Toruń",
+      "region": "Małopolskie",
+      "imgSrc": "https://images.unsplash.com/photo-1661869535393-872dea2d9f8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=8",
+      "phone": "+48596596567",
+      "id": 6
+    },
+    {
+      "name": "Weronika",
+      "surname": "Grzyb",
+      "street": "Sądecka",
+      "postCode": "30-333",
+      "town": "Przemyśl",
+      "region": "Małopolskie",
+      "imgSrc": "https://images.unsplash.com/photo-1661869535393-872dea2d9f8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=8",
+      "phone": "+48596596578",
+      "id": 7
+    },
+    {
+      "name": "test",
+      "surname": "test",
+      "street": "test",
+      "postCode": "test",
+      "town": "test",
+      "region": "test",
+      "imgSrc": "test",
+      "phone": "test",
+      "id": 8
+    },
+    {
+      "name": "test",
+      "surname": "test",
+      "street": "testwefw",
+      "postCode": "40-444",
+      "town": "testfvfev",
+      "region": "test",
+      "imgSrc": "http://test.pl",
+      "phone": "+48563365563",
+      "city": "test",
+      "id": 9
+    },
+    {
+      "name": "test",
+      "surname": "test",
+      "street": "testwefw",
+      "postCode": "40-444",
+      "town": "testfvfev",
+      "region": "test",
+      "imgSrc": "http://test.pl",
+      "phone": "+48563365563",
+      "city": "test",
+      "id": 10
+    },
+    {
+      "name": "test",
+      "surname": "test",
+      "street": "testwefw",
+      "postCode": "40-444",
+      "town": "testfvfev",
+      "region": "test",
+      "imgSrc": "http://test.pl",
+      "phone": "+48563365563",
+      "city": "test",
+      "id": 11
+    },
+    {
+      "name": "test",
+      "surname": "test",
+      "street": "testwefw",
+      "postCode": "40-444",
+      "town": "testfvfev",
+      "region": "test",
+      "imgSrc": "http://test.pl",
+      "phone": "+48563365563",
+      "city": "test",
+      "id": 12
+    },
+    {
+      "name": "test",
+      "surname": "Jochemczyk",
+      "street": "tewwww",
+      "postCode": "40-123",
+      "town": "B22",
+      "region": "test",
+      "imgSrc": "http://ulr.pl",
+      "phone": "+48123456789",
+      "id": 13
+    },
+    {
+      "name": "test",
+      "surname": "test",
+      "street": "tsdafvesgv",
+      "postCode": "40-444",
+      "town": "rtsbrs",
+      "region": "srtbhr",
+      "imgSrc": "https://images.unsplash.com/photo-1661869535393-872dea2d9f8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=8",
+      "phone": "+48563365563",
+      "id": 14
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "phoneNumber": "+48596596578",
+      "quantity": 2,
+      "orderTitle": "drewno",
+      "orderContent": "zamawiam drewno",
+      "paid": true
+    },
+    {
+      "id": 2,
+      "phoneNumber": "+48596596578",
+      "quantity": 5,
+      "orderTitle": "węgiel",
+      "orderContent": "zamawiam węgiel",
+      "paid": true
+    }
+  ]
+}
